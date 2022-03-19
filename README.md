@@ -10,7 +10,7 @@ You do not need any special software to run, although Google Chrome is recommend
 
 I would like to add a head or perhaps a pointed finger into the mix.
 
-#License
+# License
 
 MIT License
 
