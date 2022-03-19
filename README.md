@@ -8,4 +8,4 @@ You do not need any special software to run, although Google Chrome is recommend
 
 # Roadmap of future improvements
 
-I would like to add a head or perhaps a pointed finger into the script.
+I would like to add a head or perhaps a pointed finger into the mix.
