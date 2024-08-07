@@ -1,4 +1,4 @@
-# Eye-Exercise
+# Eye-Exercise for MIT xPRO
 
 A demostration showing a pair of eyes moving and following the mouse cursor in the browser window using simple .html, .css, and .js.
 
