@@ -1,12 +1,9 @@
 # Eye-Exercise
 
-A demostration showing a pair of eyes moving and following the mouse cursor in the browser window. I really enjoyed this project.
+A demostration showing a pair of eyes moving and following the mouse cursor in the browser window using simple .html, .css, and .js.
 
 # How to run
 
-You do not need any special software to run, although Google Chrome is recommended. If you'd like to edit the code an editor is needed such as VS Code.
+Download the .zip file or clone the directory. From there you can use a local server to view the project.
 
-# Roadmap of future improvements
-
-I would like to add a head or perhaps a pointed finger into the mix.
 

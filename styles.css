@@ -1,8 +1,8 @@
 body {
-  margin: 0;
-  padding: 0;
-  background: #14495e;
-}
+  background-image: url("images/illusion.gif");
+  background-size: cover;
+    }
+
 
 .eyes {
   position: absolute;
